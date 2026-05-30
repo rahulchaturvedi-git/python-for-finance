@@ -1,6 +1,6 @@
 # Python for Finance
 
-This repository contains Python-based finance projects, experiments, and visualizations created while learning financial data analysis, stock market concepts, and quantitative finance using Python. The goal is to continuously build and upload finance-related scripts, models, and visualizations while documenting the learning process through practical implementations.
+This repository contains Python-based finance experiments, and visualizations created while learning financial data analysis, stock market concepts, and quantitative finance using Python. The goal is to continuously build and upload finance-related scripts, models, and visualizations while documenting the learning process through practical implementations.
 
 ---
 
