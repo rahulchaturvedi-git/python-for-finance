@@ -19,10 +19,10 @@ This repository contains Python-based finance experiments, and visualizations cr
 - It fetches real-time closing prices for a predefined list of tickers (AAPL, TSLA, META, NVDA, AMZN, GOOGL) and calculates the total portfolio value.
 - The visualization is presented as a donut chart, showing the percentage and USD value of each holding.
 - **Key Features**: Portfolio tracking, real-time data fetching, and clear data visualization using `matplotlib`.
-- **/modfications** - **Institutional Shareholding Visualizer**: (`company-investors-shareholding.py`)
-- Allows users to explore the institutional ownership of any publicly traded company of the USA.
-- It provides an interactive menu to view a table of top institutional holders or visualize the shareholding distribution in a pie chart.
-- **Key Features**: Dynamic ticker input, interactive console menu, and data grouping for clear visualization of major vs. minor institutional investors.
+- **/modifications** - **Institutional Shareholding Visualizer**: (`company-investors-shareholding.py`)
+    - Allows users to explore the institutional ownership of any publicly traded company of the USA.
+    - It provides an interactive menu to view a table of top institutional holders or visualize the shareholding distribution in a pie chart.
+    - **Key Features**: Dynamic ticker input, interactive console menu, and data grouping for clear visualization of major vs. minor institutional investors.
 
 ---
 
